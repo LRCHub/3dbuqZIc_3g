@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "鳥の詩",
+  "base_artist": "森口博子",
+  "createdAt": "2026-03-13T20:29:36.795713Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "鳥の詩",
+      "artist": "Lia",
+      "has_synced": true,
+      "path": "select/01_鳥の詩_Lia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "鳥の詩",
+      "artist": "Lia",
+      "has_synced": true,
+      "path": "select/02_鳥の詩_Lia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "鳥の詩 (Remix from AIR)",
+      "artist": "Lia",
+      "has_synced": false,
+      "path": "select/03_鳥の詩_(Remix_from_AIR)_Lia.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "鳥の詩",
+      "artist": "杉田かおる",
+      "has_synced": true,
+      "path": "select/04_鳥の詩_杉田かおる.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "鳥の詩 (short version)",
+      "artist": "Lia",
+      "has_synced": false,
+      "path": "select/05_鳥の詩_(short_version)_Lia.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "鳥の詩",
+      "artist": "石川綾子",
+      "has_synced": false,
+      "path": "select/06_鳥の詩_石川綾子.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "鳥の詩",
+      "artist": "Lia",
+      "has_synced": true,
+      "path": "select/07_鳥の詩_Lia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "鳥の詩",
+      "artist": "高垣楓",
+      "has_synced": true,
+      "path": "select/08_鳥の詩_高垣楓.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "鳥の詩",
+      "artist": "Lia",
+      "has_synced": true,
+      "path": "select/09_鳥の詩_Lia.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "鳥の詩 [short version]",
+      "artist": "AIR エアー",
+      "has_synced": false,
+      "path": "select/10_鳥の詩_[short_version]_AIR_エアー.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "鳥の詩",
+      "artist": "杉田かおる",
+      "has_synced": true,
+      "path": "select/11_鳥の詩_杉田かおる.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鳥の詩",
+      "artist": "森口 博子",
+      "has_synced": false,
+      "path": "select/pl_01_鳥の詩_森口_博子.txt"
+    }
+  ]
+}
